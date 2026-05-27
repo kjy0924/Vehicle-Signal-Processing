@@ -4,3 +4,5 @@ __pycache__
 voltage_prediction_and_ISC_detection-V1.0
 processed_data/
 .idea/
+*.png
+saved_models
